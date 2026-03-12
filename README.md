@@ -37,6 +37,9 @@ Basically any software can be used as tools. Here I used G-mail. The tool you ne
 
 
 
-If you want to get real experience, then, just download the "AI E-mail sender" file, import it to the n8n and execute. 
+If you want to get real experience, then, just download the "AI E-mail sender.json" file, import it to the n8n and execute. 
 
 N.B. You will need to add credentials or APIs and acivate G-mail API to execute this workflow. Otherwise it won't work. So. in my next repository, I will show you how you can get credentials or APIs from Google cloud and activate the G-mail API.
+
+
+If this guide helped you, please give it a ⭐ to help others find it!
